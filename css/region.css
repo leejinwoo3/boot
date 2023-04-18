@@ -1,0 +1,13 @@
+@charset "urf-8";
+
+main {
+  margin-top: 56px;
+}
+
+main > section {
+  padding: 40px 0;
+}
+
+.weather_img {
+  width: 100%;
+}
